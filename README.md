@@ -1,4 +1,6 @@
 # MapboxNet
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAliFlux%2FMapboxNet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FAliFlux%2FMapboxNet?ref=badge_shield)
+
 
 ## A comprehensive Mapbox map control for WPF and WinForms
 
@@ -185,3 +187,5 @@ This software is released under the [MIT License](LICENSE). Please read LICENSE 
 software availability and distribution.
 
 Copyright (c) 2019 [Ali Ashraf](http://aliashraf.net)
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FAliFlux%2FMapboxNet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FAliFlux%2FMapboxNet?ref=badge_large)
